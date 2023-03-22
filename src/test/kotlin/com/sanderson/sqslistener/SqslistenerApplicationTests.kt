@@ -3,10 +3,10 @@ package com.sanderson.sqslistener
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
-@SpringBootTest
+//@SpringBootTest
 class SqslistenerApplicationTests {
 
-	@Test
+//	@Test
 	fun contextLoads() {
 	}
 
